@@ -25,7 +25,7 @@ I'm open to connecting with fellow beginners, experienced developers, or anyone 
 
 ## 📫 Get in Touch
 
-- **LinkedIn:** [Mihai on Linked-In](www.linkedin.com/in/mihai-cristian-muresan)
+- **LinkedIn:** www.linkedin.com/in/mihai-cristian-muresan
 - **Email:** muresanmihaicristian@gmail.com
 
 Feel free to reach out if you have any tips, resources, or if you'd like to collaborate on a project. Here's to the exciting journey of learning and coding! 🌟
