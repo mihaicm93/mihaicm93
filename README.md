@@ -23,7 +23,4 @@ I'm open to connecting with fellow beginners, experienced developers, or anyone 
 
 📫 Get in Touch
 
-LinkedIn: Connect with me on LinkedIn
-Email: muresanmihaicristian@gmail.com
-
 Feel free to reach out if you have any tips, resources, or if you'd like to collaborate on a project. Here's to the exciting journey of learning and coding! 🌟
