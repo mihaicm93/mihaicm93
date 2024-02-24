@@ -9,7 +9,7 @@
 >🌱 I’m Currently Learning
 
 
-__Game Modding:__ Immersed in the art of modding, especially within games like Escape from Tarkov. 
+__Game Modding:__ Immersed in the art of modding, especially within games like Escape from Tarkov.
 __Game Development:__ Started dipping my toes into game development with some simple and easy games.
 __Server Hosting:__ Mastering the setup of game servers on Virtual Private Servers.
 __Web Development:__ Grasping the fundamentals of web technologies such as HTML, CSS, and JavaScript. 
