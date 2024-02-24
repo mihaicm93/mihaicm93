@@ -50,7 +50,3 @@ Feel free to reach out if you have any tips, resources, or if you'd like to coll
 ***
 
 [Back to top](#readme)
-
-
-
-
