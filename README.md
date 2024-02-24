@@ -9,7 +9,7 @@
 >🌱 I’m Currently Learning
 
 
-__Game Modding:__ Immersed in the art of modding, especially within games like Escape from Tarkov. 
+__Game Modding:__ Immersed in the art of modding, especially within games like Escape from Tarkov.
 __Game Development:__ Started dipping my toes into game development with some simple and easy games.
 __Server Hosting:__ Mastering the setup of game servers on Virtual Private Servers.
 __Web Development:__ Grasping the fundamentals of web technologies such as HTML, CSS, and JavaScript. 
@@ -32,25 +32,16 @@ I'm open to connecting with fellow beginners, experienced developers, or anyone 
 
 Feel free to reach out if you have any tips, resources, or if you'd like to collaborate on a project. Always up to learn and code! 🌟
 
-<div class="container">
-    <style>
-        .container {
-                    background-image: linear-gradient(320deg, #fff, #ddd 200%, #ccc);
-                    }
-                </style>
 
 |![GitHub stats](https://github-readme-stats.vercel.app/api?username=mihaicm93&show_icons=true&theme=gruvbox)|![GitHub Streak](https://streak-stats.demolab.com?user=mihaicm93&theme=gruvbox&border_radius=2.5)| 
 | --- | --- | 
-</div>
+
  
 ***
-<img src="https://github.com/darsaveli/darsaveli/blob/main/1479814528_webarebears.gif?raw=true" width="385px" align="center">  </img>
+<p align="center">
 
+<img src="https://github.com/darsaveli/darsaveli/blob/main/1479814528_webarebears.gif?raw=true" align="center" />
+
+</p>
 
 ***
-
-[Back to top](#readme)
-
-
-
-
