@@ -21,7 +21,9 @@
 🚀 What I'm Excited About
 
 >__Contribute:__ Eager to participate in open-source projects and collaborate with the tech community.
+
 >__Learn More:__ Excited about the endless learning opportunities in the tech world.
+
 >__Goal:__ Transitioning to an IT career and actively seeking opportunities to grow in the tech industry.
 ***
 
