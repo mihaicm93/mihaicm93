@@ -44,7 +44,7 @@
 ***
 <p align="center">
 
-<img src="https://github.com/darsaveli/darsaveli/blob/main/1479814528_webarebears.gif?raw=true" align="center" />
+<img src="https://imgur.com/BoCu2Ve" align="center" />
 
 </p>
 
