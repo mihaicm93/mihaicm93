@@ -44,7 +44,7 @@
 ***
 <p align="center">
 
-<img src="https://imgur.com/BoCu2Ve" align="center" />
+<img src="https://i.imgur.com/BoCu2Ve.gif" align="center" />
 
 </p>
 
