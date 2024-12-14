@@ -52,5 +52,4 @@
 <img src="https://i.imgur.com/BoCu2Ve.gif?raw=true" width="200" align="center" />
 </p>
 
-</style>
 
