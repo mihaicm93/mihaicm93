@@ -24,7 +24,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mihaicm93&layout=donut&theme=github_dark&hide_border=true" style="height: 150px; width: auto;" />
-  <img src="https://streak-stats.demolab.com?user=mihaicm93&theme=transparent&hide_border=true" style="height: 150px; width: auto;" />
 </p>
 
 
