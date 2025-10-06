@@ -5,11 +5,10 @@
 | I mess around with code, servers, and random tech stuff. Started out modding games and breaking things just to see how they worked — still kind of doing that 😅. These days, I’m diving deeper into web dev (React, Next.js, .NET) and trying to actually finish the projects I start. |
 | --- |
 
-<p align="center">
-  Stuff I enjoy:  
-  <br>🧩 Making things that (mostly) work  
-  <br>🎮 Game modding and tinkering  
-  <br>⚙️ Trying new frameworks just to see what breaks  
+<p align="center"> 
+  <br>Making things that (mostly) work  
+  <br>Game modding and tinkering  
+  <br>Trying new frameworks just to see what breaks  
 </p>
 
 <p align="center" style="font-size: 24px; color: #58A6FF; animation: fadeIn 3s ease-out;">
