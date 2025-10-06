@@ -3,18 +3,24 @@
 </p>
 
 
-|I’m a tech enthusiast with a curious mind and a love for figuring out how things work. My journey into tech started with experimenting—modding games, setting up servers, and dabbling in code.Now, I’m learning more every day and finding new ways to create and connect. |
+| I mess around with code, servers, and random tech stuff.
+I started by modding games and breaking things just to figure out how they work, still kinda doing that.
+These days I’m learning web dev (React, Next.js, .NET) and trying to actually finish the projects I start 😅 |
 | --- |
 
 
 <p align="center">
 
 
-|I'm open to connecting with fellow beginners, experienced developers, or anyone passionate about tech. Looking to learn and grow my skills!|
+|Making stuff that works (most of the time)
+
+Game modding and automation
+
+Learning new frameworks just to see what they can do|
 | --- |
 </p>
 <p align="center" style="font-size: 24px; color: #58A6FF; animation: fadeIn 3s ease-out;">
-  If you’re into game modding, development, or just want to chat about tech, I’m always up for sharing ideas and learning together.📫
+  Always down to share ideas or learn something new.
 </p>
 
 <p align="center">
