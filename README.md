@@ -11,9 +11,9 @@
 
 
 Making stuff that works (most of the time)
-
+| --- |
 Game modding and automation
-
+| --- |
 Learning new frameworks just to see what they can do
 | --- |
 </p>
