@@ -3,20 +3,18 @@
 </p>
 
 
-| I mess around with code, servers, and random tech stuff.
-I started by modding games and breaking things just to figure out how they work, still kinda doing that.
-These days I’m learning web dev (React, Next.js, .NET) and trying to actually finish the projects I start 😅 |
+| I mess around with code, servers, and random tech stuff. I started by modding games and breaking things just to figure out how they work, still kinda doing that. These days I’m learning web dev (React, Next.js, .NET) and trying to actually finish the projects I start 😅 |
 | --- |
 
 
 <p align="center">
 
 
-|Making stuff that works (most of the time)
+Making stuff that works (most of the time)
 
 Game modding and automation
 
-Learning new frameworks just to see what they can do|
+Learning new frameworks just to see what they can do
 | --- |
 </p>
 <p align="center" style="font-size: 24px; color: #58A6FF; animation: fadeIn 3s ease-out;">
