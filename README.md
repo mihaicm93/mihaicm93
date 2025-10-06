@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com??font=Montserrat&weight=600&size=32&duration=3000&color=2DBA4E&center=true&vCenter=true&width=750&lines=Hey!+%F0%9F%91%8B;I'm+Mihai;Welcome+to+my+GitHub!;I+like+building+and+breaking+things+with+code." />
 </p>
 
-| I mess around with code, servers, and random tech stuff. Started out modding games and breaking things just to see how they worked — still kind of doing that 😅. These days, I’m diving deeper into web dev (React, Next.js, .NET) and trying to actually finish the projects I start. |
+| I mess around with code, servers, and random tech stuff. Started out modding games and breaking things just to see how they worked, still kind of doing that . Web dev (React, Next.js, .NET) and trying to actually finish the projects I start. |
 | --- |
 
 <p align="center"> 
